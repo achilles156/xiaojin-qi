@@ -1,5 +1,5 @@
 # Xiaojin Qi
 
-Personal academic site: landscape, classical Chinese texts, independent research.
+Personal site (static HTML for GitHub Pages).
 
 Live: https://achilles156.github.io/xiaojin-qi/
