@@ -48,7 +48,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  github: XiaojinQi  # update if your GitHub username differs
+  github: achilles156
 #  email: "you@example.com"
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
@@ -297,3 +297,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+
+url: "https://achilles156.github.io"
+baseurl: "/xiaojin-qi"
